@@ -1,1 +1,0 @@
-"""Emergency department optimisation package."""
