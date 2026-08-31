@@ -1,6 +1,6 @@
 # Emergency Department Optimisation
 
-This project develops a quantitative optimisation model of an emergency department where doctors, nurses, beds and other critical resources are allocated efficiently to patients whilst maintaining patient flow under uncertain conditions.
+This project attempts to develop a quantitative optimisation model of an emergency department where doctors, nurses, beds and other resources are allocated efficiently to patients whilst maintaining patient flow under uncertain conditions.
 
 ## Aim
 
