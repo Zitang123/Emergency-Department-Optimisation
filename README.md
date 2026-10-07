@@ -12,6 +12,7 @@ The aim is to create a simulation that models patient arrivals, acuity, treatmen
 - Queue management
 - Resource allocation
 
+
 ## Run
 
 ```bash
@@ -20,5 +21,7 @@ python source/run_patient_generation.py
 ```
 
 ## Documentation
+
+NOTE: documentation isn't up to date, got too carried away with development so forgot to write down stuff
 
 [Project documentation](docs/DOCUMENTATION.docx)
